@@ -37,10 +37,3 @@ ul {
   justify-content: center;
   align-items: center;
 }
-
-.container-center-w-gap {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 30px;
-}

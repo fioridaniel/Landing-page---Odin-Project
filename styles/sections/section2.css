@@ -10,6 +10,13 @@
   background-color: white;
 }
 
+.container-center-w-gap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
 .section2 h3 {
   color: #1f2937;
   margin: 0;
