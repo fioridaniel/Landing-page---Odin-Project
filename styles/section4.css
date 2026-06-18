@@ -1,0 +1,44 @@
+.section4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+
+.sign-up-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 700px;
+  height: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #3882f6;
+  border-width: 2px;
+  border-radius: 5px;
+}
+
+.sign-up-card-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.sign-up-card-text h3,
+.sign-up-card-text p {
+  margin: 0;
+}
+
+.sign-up-button {
+  background-color: #3882f6;
+  border-color: white;
+  color: white;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 6px;
+}
